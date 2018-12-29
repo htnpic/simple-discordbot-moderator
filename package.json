@@ -1,0 +1,24 @@
+{
+  "name": "dex",
+  "version": "0.0.1",
+  "description": "Simple bot moderator / JavaScript / by htnpic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htnpic/simple-discordbot-moderator.git"
+  },
+  "author": "htnpic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htnpic/simple-discordbot-moderator/issues"
+  },
+  "homepage": "https://github.com/htnpic/simple-discordbot-moderator#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.1"
+  }
+}
